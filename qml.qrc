@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>pageSecond.qml</file>
+        <file>stackView.qml</file>
+        <file>Login.qml</file>
+        <file>Register.qml</file>
+    </qresource>
+</RCC>
